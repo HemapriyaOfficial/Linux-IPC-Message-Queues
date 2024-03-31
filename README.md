@@ -89,8 +89,8 @@ int main()
 ## OUTPUT
 
 
-![318213942-8c597e32-f10b-4e28-8090-cc1816dd6a46](https://github.com/HemapriyaOfficial/Linux-IPC-Message-Queues/assets/147114275/824f4172-e362-40df-a8a9-a2639e50ee58)
 
+![318213942-8c597e32-f10b-4e28-8090-cc1816dd6a46](https://github.com/HemapriyaOfficial/Linux-IPC-Message-Queues/assets/147114275/ada00d01-7b23-45d2-8dfa-69e067ba87b0)
 
 # RESULT:
 The programs are executed successfully.
